@@ -1,13 +1,13 @@
 ### Hi Developers 👋
-
+<!-- 
 [![YouTube Badge](https://img.shields.io/badge/YouTube-DeveloperFunnel-red)](https://www.youtube.com/developerfunnel)
 [![Linkedin Badge](https://img.shields.io/badge/-AnigithalaYogi57-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/AnigithalaYogi57--01629954/)](https://www.linkedin.com/in/AnigithalaYogi57--01629954/)
 [![Website Badge](https://img.shields.io/badge/WebSite-AnigithalaYogi57-green)](https://www.akash)
-[![Website Badge](https://img.shields.io/badge/StackOverflow-AnigithalaYogi57-yellow)](https://stackoverflow.com/users/3687251/AnigithalaYogi57-)
+[![Website Badge](https://img.shields.io/badge/StackOverflow-AnigithalaYogi57-yellow)](https://stackoverflow.com/users/3687251/AnigithalaYogi57-) -->
 
 I'm
-Full Stack Solution Architect
-The crossover between design and programming has always been of interest to me, I've been lucky enough to work alongside some talented teams on a number of high profile websites. I have a wide range of skills that include back-end development using open source technologies (NodeJs, Python), design (working closely with designers), front-end development (React, Angular9, ReactJs, HTML5, CSS3, Javascript, Responsive, UX), Server Administrator(AWS, GCP, Azure),database(MongoDB,cassendra,Mysql), CI/CD(Docker, kubernetes)
+Full Stack Developer
+The crossover between design and programming has always been of interest to me, I've been lucky enough to work alongside some talented teams on a number of high profile websites. I have a wide range of skills that include back-end development using open source technologies (Python), design (working closely with designers), front-end development (React, ReactJs, HTML5, CSS3, Javascript, Responsive),database(MongoDB,Mysql), CI/CD(Docker)
 
 
 ![Visitor Count](https://profile-counter.glitch.me/AnigithalaYogi57/count.svg)
